@@ -1,0 +1,84 @@
+{
+  "acme_co": {
+    "customer_name": "Jordan Reyes",
+    "relationship": "long-time customer",
+    "region": "region_1",
+    "segment": "smb",
+    "account_size": 40,
+    "quote": "This tool lets us handle 20% more support tickets without adding headcount!",
+    "metric": "20% increase in ticket throughput",
+    "video_length_sec": 190,
+    "source_url": "example.com/customer-stories/acme-co"
+  },
+  "brightline": {
+    "customer_name": "Alex & Sam Whitfield",
+    "relationship": "long-time customer",
+    "region": "region_5",
+    "segment": "enterprise",
+    "account_size": 800,
+    "quote": null,
+    "metric": "scaling their team without scaling the workload",
+    "video_length_sec": 270,
+    "source_url": "example.com/customer-stories/brightline"
+  },
+  "nova_labs": {
+    "customer_name": "Nova Chen",
+    "relationship": "new customer",
+    "region": "region_5",
+    "segment": "smb",
+    "account_size": 100,
+    "quote": null,
+    "metric": "achieved their best response times since onboarding",
+    "video_length_sec": 229,
+    "source_url": "example.com/customer-stories/nova-labs"
+  },
+  "quarterly review at Fernbank HQ": {
+    "customer_name": null,
+    "relationship": null,
+    "region": null,
+    "segment": "enterprise",
+    "account_size": null,
+    "quote": "They don't second-guess the workflow like they used to. Now it's just part of how the day runs, whereas before it was a separate thing they had to remember to do.",
+    "metric": "cut escalations by roughly 12-15%, best it's ever been",
+    "video_length_sec": 1362,
+    "source_url": "example.com/customer-stories/fernbank-quarterly-review"
+  },
+  "solstice_retail_rollout": {
+    "customer_name": "Priya and Daniel Ortiz",
+    "relationship": null,
+    "region": "region_3",
+    "segment": "enterprise",
+    "account_size": 1600,
+    "topic": null,
+    "quotes": [
+      "we operate out of two regional hubs between our east and west sites.",
+      "we've got four locations with support teams at each. Um the site here that we rolled this out on first is called Emerald View and we're running just under 1,600 seats.",
+      "we are all self-contained. Um we run our own onboarding and all our own training materials.",
+      "just the whole the concept of of the tool and and um what you can do with it and and um you know the workflow just running by itself, not under any pressure. Um the the data that we're going to be collecting um with usage and so forth and account health. Um it's going to be exciting.",
+      "The whole thing is definitely going to make it easy on staff. Like we're we're planning on keeping the same amount of um staff. We're not going to reduce any numbers.",
+      "we've been going since 8:00 this morning. It's about 4 12 now and we've done just over 600 seats.",
+      "I think we're probably getting quicker actually every year.",
+      "We're doing probably about 100 an hour, so going really well. So 16 hours it should take us.",
+      "today we have put through 870 seats which is awesome.",
+      "it's um 10 8 in the morning and we've just done 1,000 seats, including including yesterday.",
+      "we're definitely doing a lot faster than what we were yesterday.",
+      "1545. 1545. Wow. Perfect."
+    ],
+    "key_facts": [
+      "Priya and Daniel Ortiz led the rollout across their org",
+      "They have four locations with support teams at each",
+      "The site is called Emerald View and runs just under 1,600 seats",
+      "Based across two regional hubs, fully remote-friendly",
+      "Fully self-contained, run their own onboarding and training materials",
+      "Rolled out to just under 1,600 seats over two days",
+      "Planning on keeping the same amount of staff, not reducing any numbers",
+      "Done just over 600 seats by about 4:12pm on first day",
+      "Doing about 100 seats an hour",
+      "Rolled out to 870 seats on the first day",
+      "Done 1,000 seats by 10:08am on second day including previous day",
+      "Completed 1,545 seats in total"
+    ],
+    "video_length_sec": 739,
+    "source_url": "example.com/customer-stories/solstice-retail-rollout"
+  }
+}
