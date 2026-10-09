@@ -77,4 +77,4 @@ in advance.
 
 ## License
 
-All rights reserved. See [LICENSE](LICENSE). No permission is granted to use, copy, modify or distribute this code without prior written permission.
+All rights reserved. This code is published for viewing only. You may not use, copy, modify or distribute it without my written permission. To request permission, see [my GitHub profile](https://github.com/josiahwyk) for contact details. See [LICENSE](LICENSE).
