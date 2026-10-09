@@ -74,3 +74,7 @@ Not yet built: a point-and-click front end (currently CLI-only), and a centraliz
 and track generated outputs (currently they just print to the terminal). Both are deliberately
 scoped to be built once there's a real destination/team to build them for, rather than guessed at
 in advance.
+
+## License
+
+All rights reserved. See [LICENSE](LICENSE). No permission is granted to use, copy, modify or distribute this code without prior written permission.
